@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\controllers\\expensescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:controllers\\expensescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\controllers\\expenseparticipantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:controllers\\expenseparticipantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\controllers\\bandmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:controllers\\bandmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\controllers\\debtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:controllers\\debtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\domain\\requests\\rooms\\groupbalancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:domain\\requests\\rooms\\groupbalancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1C2E66-AF24-4155-90D9-8817B69D7C4B}|..\\ProdjectApi.Tests\\ProdjectApi.Tests.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi.tests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\domain\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:domain\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|c:\\users\\geral\\desktop\\programpo_kp_2\\api\\prodjectapi\\domain\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBB12CE-D49D-1943-5473-9A1BFA34ED1D}|ProdjectApi.csproj|solutionrelative:domain\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpensesControler.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\ExpensesControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpensesControler.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\ExpensesControler.cs",
+              "RelativeToolTip": "Controllers\\ExpensesControler.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:22:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BandMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\BandMembersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BandMembersController.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\BandMembersController.cs",
+              "RelativeToolTip": "Controllers\\BandMembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:45:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAWwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:39:39.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupBalanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Requests\\Rooms\\GroupBalanceRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Requests\\Rooms\\GroupBalanceRequest.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Requests\\Rooms\\GroupBalanceRequest.cs",
+              "RelativeToolTip": "Domain\\Requests\\Rooms\\GroupBalanceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:39:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Models\\Expenses.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Expenses.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Models\\Expenses.cs",
+              "RelativeToolTip": "Domain\\Models\\Expenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:47:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi.Tests\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "..\\ProdjectApi.Tests\\IntegrationTest1.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi.Tests\\IntegrationTest1.cs",
+              "RelativeToolTip": "..\\ProdjectApi.Tests\\IntegrationTest1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T12:38:01.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\ExpenseParticipantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseParticipantsController.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\ExpenseParticipantsController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseParticipantsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:18:52.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebtsController.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\DebtsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DebtsController.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Controllers\\DebtsController.cs",
+              "RelativeToolTip": "Controllers\\DebtsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:07:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\geral\\Desktop\\ProgramPO_KP_2\\Api\\ProdjectApi\\Domain\\Models\\Users.cs",
+              "RelativeToolTip": "Domain\\Models\\Users.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:34:26.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

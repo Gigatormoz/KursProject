@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ProdjectClient.Maui.Pages.LoginView"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Вход">
+
+    <StackLayout
+        Margin="16,32,16,16"
+        Spacing="12">
+
+        <!-- Логотип -->
+        <Image
+            Source="logo.png"
+            WidthRequest="100"
+            HeightRequest="100"
+            HorizontalOptions="Center" />
+
+        <!-- Email -->
+        <Label Text="Email" />
+        <Entry
+            x:Name="EmailEntry"
+            Placeholder="email@example.com" />
+
+        <!-- Пароль -->
+        <Label Text="Пароль" />
+        <Entry
+            x:Name="PasswordEntry"
+            Placeholder="Пароль"
+            IsPassword="True" />
+
+        <!-- Кнопка войти -->
+        <Button
+            Text="Войти"
+            Clicked="OnLoginButtonClicked" />
+
+        <!-- Кнопка зарегистрироваться -->
+        <Button
+            Text="Зарегистрироваться"
+            TextColor="Blue"
+            Clicked="OnRegisterButtonClicked" />
+
+        <!-- Сообщение об ошибке -->
+        <Label
+            x:Name="ErrorLabel"
+            TextColor="Red"
+            IsVisible="False" />
+    </StackLayout>
+</ContentPage>
